@@ -6,7 +6,7 @@
 <body>
 
 <h1>1-<i>Facebook</i> sonde ses utilisateurs français pour établir une cartographie pandémique plus précise </h1>
-<hr width="500px" align="legt"/>
+<hr width="500px" align="center"/>
 <p>
   Les différentes cartes développés par les autorités médicales internationales ou les institutions médicales ne comprennent que le nombre de malades du COVID-19 recensés officiellement par les ministères de la santé nationaux de chaque pays et rassemblés par l’Organisation mondiale de la santé (OMS). 
   Le plus souvent, ces chiffres proviennent des rapports des services de santé et reflètent le nombre de dépistages et d’admissions dans les hôpitaux.</br> 
