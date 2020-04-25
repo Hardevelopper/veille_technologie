@@ -5,7 +5,7 @@
 <body>
 
 <h1>1-<i>Facebook</i> sonde ses utilisateurs français pour établir une cartographie pandémique plus précise </h1>
-<hr width="800px" align="center"/>
+<hr width="500px" align="center"/>
 <p>
   Les différentes cartes développés par les autorités médicales internationales ou les institutions médicales ne comprennent que le nombre de malades du COVID-19 recensés officiellement par les ministères de la santé nationaux de chaque pays et rassemblés par l’Organisation mondiale de la santé (OMS). 
   Le plus souvent, ces chiffres proviennent des rapports des services de santé et reflètent le nombre de dépistages et d’admissions dans les hôpitaux.</br> 
@@ -19,7 +19,7 @@
   Cette dernière ressemble, dans son utilisation des réseaux sociaux, à l’intelligence artificielle développée indépendamment par Dataminr.
   Celle-ci cherche la répétition de mots-clés liés au coronavirus du COVID-19 et aux symptômes correspondants dans le contenu même des publications des internautes sur Twitter ou Facebook.
 </p>
-<a href="https://www.google.ci"><img src="Téléphone/DCIM/Camera/IMG_20200423_122517.jpg" alt="glovo"/> </a>
+<a href="https://www.google.ci"><img src="Téléphone/DCIM/CameraIMG_20200423_122517.jpg" alt="glovo"/> </a>
 <h4> TO BE CONTINUED...</h4>
 </body>
 </html>
