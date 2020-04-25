@@ -20,7 +20,8 @@
   Cette dernière ressemble, dans son utilisation des réseaux sociaux, à l’intelligence artificielle développée indépendamment par Dataminr.
   Celle-ci cherche la répétition de mots-clés liés au coronavirus du COVID-19 et aux symptômes correspondants dans le contenu même des publications des internautes sur Twitter ou Facebook.
 </p>
-<a href="https://www.youracclaim.com/earner/earned/badge/21f00a38-0b71-4aa5-926f-09800c8d413c">badges</a>
+<a href="https://www.google.ci">google</a>
+<img src="IMG_20200423_122517.png" alt="glovo"/>
 <h4> TO BE CONTINUED...</h4>
 </body>
 </html>
